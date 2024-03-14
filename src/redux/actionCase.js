@@ -1,0 +1,10 @@
+export const actionCase = {
+    ADD_TODO: 'ADD_TODO',
+    TOGGLE: 'TOGGLE',
+    REMOVE_TODO: 'REMOVE_TODO',
+    MARKED_COMP: 'MARKED_COMP',
+    MARKED_INC: 'MARKED_INC',
+    FILTER: 'FILTER',
+    MARK_ALL_COM: 'MARK_ALL_COM',
+    UPDATE: 'UPDATE',
+}
